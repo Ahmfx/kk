@@ -26,9 +26,9 @@ def usernames():
     u5 = k + k + k + k + k + n + n
     u6 = k + k + k + n + n + k + k
     u7 = k + k + n + k + n + k + k
-    u7 = k + n + k + k + n + k + k
-    u8 = k + k + k + k + n + n + k
-    u9 = k + n + k + n + k + k + k
+    u7 = k + n + k + k + n + k + k + k
+    u8 = k + k + k + k + n + n + k + k
+    u9 = k + n + k + n + k + k + k + k
     s = u1,u2,u3,u4,u5,u6,u7,u8,u9
     return choice(s)
 
